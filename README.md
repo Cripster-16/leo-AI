@@ -1,4 +1,4 @@
-# Leo - Brave's Design System
+# LeoAI - Brave's Design System
 
 ## Tokens
 
